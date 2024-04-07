@@ -1,8 +1,15 @@
-This is the *Simple Chat Bot with Java* project I made myself.
+This is the *Chat Bot with Java* project I made myself from scratch.
 
 
-<p>Begin grasping coding fundamentals by creating a simple console chat bot from scratch. This bot will be able to engage in basic conversation with you and perform simple arithmetic. During this journey, you will play some word and number games that you are going to implement on your own. Pack up and let’s hit the road!</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/113?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/113</a>
+<p>This bot will be able to engage in conversation with you and perform arithmetic operations. During this journey, you will play some word and number games that you are going to implement on your own. Pack up and let’s hit the road!</p>
 
-Here's the link to the project: https://hyperskill.org/projects/113
 
-Check out my profile: https://hyperskill.org/profile/613777065
+Tech Stack:
+- Java
+
+Stages:
+1. Display a greeting, the bot's name, and the year it was created
+2. Interact with the bot by introducing yourself so that it can greet you by your name
+3. Guess your age using remainder theorem [age = (remainder3 * 70 + remainder5 * 21 + remainder7 * 15) % 105]
+4. Count from 0 to any positive number users enter
+5. Give you a multiple-choice quiz about programming and check your answers
