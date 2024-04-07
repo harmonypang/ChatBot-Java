@@ -1,6 +1,6 @@
 This is the *Chat Bot with Java* project I made myself from scratch.
 
-
+Solution:
 <p>This bot will be able to engage in conversation with you and perform arithmetic operations. During this journey, you will play some word and number games that you are going to implement on your own. Pack up and let’s hit the road!</p>
 
 
